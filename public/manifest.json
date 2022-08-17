@@ -1,0 +1,7 @@
+{
+  "short_name": "Portfolio",
+  "name": "Jay Lee's Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
